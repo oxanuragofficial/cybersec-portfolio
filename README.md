@@ -18,7 +18,7 @@ Welcome to my cybersecurity portfolio! I'm Anurag, a BTech Computer Science stud
 
 ## 📬 Contact
 
-- **Email**: anurag.cybersec@example.com
-- **GitHub**: [github.com/anurag-cybersec](https://github.com)
-- **LinkedIn**: [linkedin.com/in/anurag-cybersec](https://linkedin.com)
+- **Email**: hindvansianurag@gmail.com
+- **GitHub**: [github.com/oxanurag_official](https://github.com)
+- **LinkedIn**: [linkedin.com/in/Anurag Kumar](https://linkedin.com)
 **
