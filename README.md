@@ -1,4 +1,4 @@
-# 🔐My Cybersecurity & Ethical Hacking Portfolio
+# 🔐My Cybersecurity & Ethical Hacking portfolio
 
 Welcome to my cybersecurity portfolio! I'm Anurag, a BTech Computer Science student passionate about ethical hacking, networking, and programming in C. This space showcases my beginner-friendly projects, labs, writeups, and continuous learning in the world of cybersecurity.
 
